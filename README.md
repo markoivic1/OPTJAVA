@@ -15,4 +15,4 @@ hw08 | time series prediction | training time delay neural network and elman neu
 hw09 | Multi-objective Optimization problem | NSGA-I
 hw10 | Multi-objective Optimization problem | NSGA-II
 hw11 | utilizing parallelism for expensive evaluation | genetic algorithm
-hw12 | Santa Fe Trail problem | genetic programing
+hw12 | Santa Fe Trail problem | genetic programming
